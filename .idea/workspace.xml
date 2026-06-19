@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="49a0693e-ace6-4d67-a697-a59ce238f4f9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/day2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PythonExercise.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonExercise.iml" afterDir="false" />
+    <list default="true" id="49a0693e-ace6-4d67-a697-a59ce238f4f9" name="Changes" comment="第二天打卡">
+      <change afterPath="$PROJECT_DIR$/day3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1.py" beforeDir="false" afterPath="$PROJECT_DIR$/day1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +65,19 @@
       <option name="presentableId" value="Default" />
       <updated>1781615485529</updated>
     </task>
+    <task id="LOCAL-00001" summary="第二天打卡">
+      <option name="closed" value="true" />
+      <created>1781666219085</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1781666219085</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第二天打卡" />
+    <option name="LAST_COMMIT_MESSAGE" value="第二天打卡" />
   </component>
 </project>
