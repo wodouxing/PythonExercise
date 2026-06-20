@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="49a0693e-ace6-4d67-a697-a59ce238f4f9" name="Changes" comment="第二天打卡">
-      <change afterPath="$PROJECT_DIR$/day3.py" afterDir="false" />
+    <list default="true" id="49a0693e-ace6-4d67-a697-a59ce238f4f9" name="Changes" comment="第三次打卡">
+      <change afterPath="$PROJECT_DIR$/day4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,11 +73,20 @@
       <option name="project" value="LOCAL" />
       <updated>1781666219085</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="第三次打卡">
+      <option name="closed" value="true" />
+      <created>1781857406206</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1781857406206</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第二天打卡" />
-    <option name="LAST_COMMIT_MESSAGE" value="第二天打卡" />
+    <MESSAGE value="第三次打卡" />
+    <option name="LAST_COMMIT_MESSAGE" value="第三次打卡" />
   </component>
 </project>
