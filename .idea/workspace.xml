@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="49a0693e-ace6-4d67-a697-a59ce238f4f9" name="Changes" comment="第六次打卡">
-      <change afterPath="$PROJECT_DIR$/day7.py" afterDir="false" />
+    <list default="true" id="49a0693e-ace6-4d67-a697-a59ce238f4f9" name="Changes" comment="第七次打卡">
+      <change afterPath="$PROJECT_DIR$/day8.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +36,9 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="3FDhKm8t5bEevGApKrZa7V2S5M0" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -105,7 +108,15 @@
       <option name="project" value="LOCAL" />
       <updated>1782104113213</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="第七次打卡">
+      <option name="closed" value="true" />
+      <created>1782221580439</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1782221580439</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -114,6 +125,7 @@
     <MESSAGE value="第四次打卡" />
     <MESSAGE value="第五次打卡" />
     <MESSAGE value="第六次打卡" />
-    <option name="LAST_COMMIT_MESSAGE" value="第六次打卡" />
+    <MESSAGE value="第七次打卡" />
+    <option name="LAST_COMMIT_MESSAGE" value="第七次打卡" />
   </component>
 </project>
